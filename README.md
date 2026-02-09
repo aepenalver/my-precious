@@ -57,6 +57,9 @@ Desde la "CLI psql" crear la base de datos y tabla. Las sentencias se encuentran
 .
 ├── database            # Configuración y creación de base de datos y tablas
 ├── index.js            # Entrada de la app
+├── logs                # Registros de logs
+├── middlewares         # Middlewares
 ├── package.json        # Configuración del proyecto y dependencias
-└── queries.js          # Repositorio de consultas SQL y lógica de datos
+├── queries.js          # Repositorio de consultas SQL y lógica de datos
+└── utils               # Funciones auxiliares o helpers
 ```
